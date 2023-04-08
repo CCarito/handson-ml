@@ -1,1 +1,4 @@
-Este es un archivo de la rama A
+<<<<<<< HEAD
+Este es un archivo de la rama master
+=======
+>>>>>>> B
